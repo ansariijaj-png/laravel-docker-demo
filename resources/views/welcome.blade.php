@@ -92,7 +92,7 @@
 <body>
 
     <div class="container">
-        <h1>Welcome Thamizh to <span>Laravel + Docker</span></h1>
+        <h1>Welcome Ijaj Ansari to <span>Laravel + Docker</span></h1>
         <p>
             Your application is successfully running inside a Docker container.
             Clean. Isolated. Production-ready.
